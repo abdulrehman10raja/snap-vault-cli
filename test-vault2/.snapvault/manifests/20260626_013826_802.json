@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "timestamp": "20260626_013826_802",
+  "source": "C:\\Users\\abdul\\OneDrive\\Desktop\\snap-vault-cli\\test-source2",
+  "files": {
+    "hello.txt": {
+      "hash": "654b93f61054e4ce90ed203bb8d556a6200d5f906cf3eca0620738d6dc18cbed",
+      "size": 28,
+      "mtime": 1782419896.1014178
+    },
+    "notes.txt": {
+      "hash": "63bdf364fa3b5616024d870913d62e24daa21dad6ed7eecb66efc737340f22a1",
+      "size": 32,
+      "mtime": 1782419897.3613877
+    }
+  },
+  "stats": {
+    "added": 2,
+    "modified": 0,
+    "deleted": 0,
+    "unchanged": 0,
+    "stored": 2,
+    "deduped": 0
+  }
+}
